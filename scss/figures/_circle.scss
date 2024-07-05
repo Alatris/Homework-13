@@ -1,0 +1,10 @@
+.circle {
+ fill: brown;
+ &-center {
+   stroke: green;
+   stroke-width: 5px;
+ }
+  &:hover {
+    animation: change-color .3s infinite;
+  }
+}

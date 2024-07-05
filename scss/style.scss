@@ -1,4 +1,18 @@
+@import "scss/common/normalize";
 @import "scss/figures/circle";
 @import "scss/figures/ellipse";
 @import "scss/figures/rectanlge";
 @import "scss/figures/square";
+
+@keyframes change-color {
+    0% {
+        fill: #a52a2a;
+    }
+    50% {
+        fill: #ff0000;
+    }
+    100% {
+        fill: #a52a2a;
+    }
+
+}
