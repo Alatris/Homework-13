@@ -326,6 +326,7 @@ template {
 .rectangle {
   fill: lightgreen;
   stroke: darkgreen;
+  margin-top: 50px;
 }
 
 .square {
