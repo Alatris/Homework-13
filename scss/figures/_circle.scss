@@ -1,8 +1,5 @@
 .circle {
   fill: lightcoral;
   stroke: darkred;
-  &:hover {
-    animation: colorChange 2s infinite;
-  };
-
-}
+  animation: colorChange 2s infinite;
+  }
