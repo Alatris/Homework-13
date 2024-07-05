@@ -1,7 +1,6 @@
 .circle {
   fill: lightcoral;
   stroke: darkred;
-  stroke-width: 5px;
   &:hover {
     animation: colorChange 2s infinite;
   };
