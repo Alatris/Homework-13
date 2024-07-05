@@ -1,0 +1,10 @@
+.circle {
+  fill: lightcoral;
+  stroke: darkred;
+  stroke-width: 5px;
+}
+.circle:hover {
+  -webkit-animation: colorChange 2s infinite;
+          animation: colorChange 2s infinite;
+}
+/*# sourceMappingURL=_circle.css.map */
